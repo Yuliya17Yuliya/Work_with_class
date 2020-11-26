@@ -1,0 +1,13 @@
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.exe
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.deps.json
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.runtimeconfig.json
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.runtimeconfig.dev.json
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.dll
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\bin\Debug\netcoreapp3.1\LW_12_13.pdb
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.csprojAssemblyReference.cache
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.AssemblyInfoInputs.cache
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.AssemblyInfo.cs
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.csproj.CoreCompileInputs.cache
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.dll
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.pdb
+C:\Users\Yulia\source\repos\LW_12_13\LW_12_13\obj\Debug\netcoreapp3.1\LW_12_13.genruntimeconfig.cache
